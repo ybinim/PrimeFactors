@@ -4,7 +4,8 @@ using namespace std;
 class PrimeFactors {
 public:
 	vector<int> of(int i) {
-		return {};
+		vector<int> result = {};
+		return result;
 	}
 
 };
