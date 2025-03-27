@@ -1,8 +1,8 @@
-
+ï»¿
 
 class PrimeFactors {
 public:
-	// ÄÚµå ¼öÁ¤
+	// ì½”ë“œ ìˆ˜ì •
 
 
 };
