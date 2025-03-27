@@ -1,8 +1,10 @@
-﻿
+﻿#include <vector>
+using namespace std;
 
 class PrimeFactors {
 public:
-	// 코드 수정
-
+	vector<int> of(int i) {
+		return {};
+	}
 
 };
