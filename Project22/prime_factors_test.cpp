@@ -26,6 +26,11 @@ TEST_F(PrimeFactorsFixture, Of3) {
 	EXPECT_EQ(expected, prime_factor.of(3));
 }
 
+TEST_F(PrimeFactorsFixture, Of4) {
+	expected = { 2, 2 };
+	EXPECT_EQ(expected, prime_factor.of(4));
+}
+
 int main() {
 	::testing::InitGoogleMock();
 	return RUN_ALL_TESTS();
